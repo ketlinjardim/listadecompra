@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-rendering: optimizeLegibility;
+    font-family: 'Poppins', sans-serif;    
+}
+
+img{
+    height: 5rem;
+}
+
+#mainlocal{
+    margin: 10rem;
+}
+#cardbody{
+    height: 30rem;
+    width: 30rem;
+
+    background-color: #72C2E9;
+    border-radius: 0.5rem;
+
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+#botao{
+    display: flex;
+    justify-content: center;
+    margin: 1rem;
+    margin-left: 9rem;
+    width: 10rem;
+}
